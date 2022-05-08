@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="#"><img width="100%" height="1000px" src="https://media.nature.com/lw800/magazine-assets/d41586-019-00653-5/d41586-019-00653-5_16459152.jpg" height="175px"/></a>
+<a href="#"><img width="650" height="650px" src="https://media.nature.com/lw800/magazine-assets/d41586-019-00653-5/d41586-019-00653-5_16459152.jpg" height="175px"/></a>
 <!--
 **Ben55565/Ben55565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
