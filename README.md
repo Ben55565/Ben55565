@@ -4,6 +4,8 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ben Daniels</h1>
 <h3 align="center">I'm a passionate Software Developer.</h3>
 
+
+
 ## About Me
 
 - 🎓 I’m a 2nd year Computer Science student.
@@ -12,7 +14,9 @@
 
 - 📫 You can reach me at: **cisbhtkx@gmail.com** 
 
-## 🚀 Languages and Tools:
+
+
+## Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -33,6 +37,8 @@
     <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  </a> 
  </a>
 </p>
+
+
 
 ## LinkedIn:
 <p align="left">
