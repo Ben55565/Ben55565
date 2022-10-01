@@ -9,7 +9,7 @@
 
 ## About Me
 
-- 🎓 I’m a 2nd year Computer Science student.
+- 🎓 I’m a 3rd year Computer Science student.
 
 - 💪 Ambitious, self-motivated, hardworking and a great team player.
 
@@ -20,6 +20,7 @@
 ## Languages and Tools:
 
 <p align="left"> 
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://images.saymedia-content.com/.image/t_share/MTc0NDczMTM4OTg0NDYxOTU4/a-brief-introduction-to-c.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
