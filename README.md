@@ -9,7 +9,7 @@
 
 ## About Me
 
-- 🎓 I’m a 3rd year Computer Science student.
+- 🎓 I’m a Computer Science Graduate.
 
 - 💪 Ambitious, self-motivated, hardworking and a great team player.
 
