@@ -1,10 +1,9 @@
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=ecf05e473nef4wjwvch9ttdzytj2ayi3ldsiqn2uuoultrep&rid=giphy.gif&ct=s" width="300"/>
+  <img src="https://giphy.com/embed/h408T6Y5GfmXBKW62l" width="300"/>
 </div>
 
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Ben Daniels</h1>
 <h3 align="center">I'm a passionate Software Developer.</h3>
-
 
 
 ## About Me
