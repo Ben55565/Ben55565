@@ -2,15 +2,15 @@
   <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="500"/>
 </div>
 
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Ben Daniels</h1>
-<h3 align="center">I'm a passionate Software Developer.</h3>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, My name is Ben Daniels</h1>
+<h3 align="center">I'm a passionate Backend Developer.</h3>
 
 
 ## About Me
 
-- 🎓 I’m a Computer Science Graduate.
+- 🎓 Software Developer, looking for Backend Developer position.
 
-- 💪 Ambitious, self-motivated, hardworking and a great team player.
+- 💪 Ambitious, self-motivated, hardworking, and a great team player.
 
 - 📫 You can reach me at: **cisbhtkx@gmail.com** 
 
